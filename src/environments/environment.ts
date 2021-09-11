@@ -12,5 +12,10 @@ export const environment = {
  *
  * This import should be commented out in production mode because it will have a negative impact
  * on performance if an error is thrown.
+ * 
+ * https://docs.google.com/spreadsheets/d/13RWES9XISRSxz_wwUGHH3DPitbFVJJO1mbzj1ayoLkw/edit?usp=sharing
+ * SheetName: CUSOMERS
+ * AIzaSyCjXPw-8R26SzYdsh21tj4lLUvqTOK-Ksc
  */
+
 // import 'zone.js/plugins/zone-error';  // Included with Angular CLI.
